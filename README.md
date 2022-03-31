@@ -17,7 +17,7 @@ Terimakasih telah menggunakan repository ini!
     <img src="https://img.shields.io/github/forks/apisuserbot/King-Userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/apisuserbot/King-Userbot">
+  <a href="https://github.com/Beylast/King-Userbot">
     <img src="https://img.shields.io/github/stars/apisuserbot/King-Userbot?style=social">
   </a>
 </p>
